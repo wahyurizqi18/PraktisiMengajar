@@ -6,10 +6,10 @@
         <div class="row my-5">
             <div class="col-md-6 d-flex align-items-center">
                 <div>
-                    <h2>Selamat Datang di Fans Page <br><b>Paris Saint-German Indonesia</b></h2>
-                    <p class="text-secondary">Tempat berkumpulnya Psg Indonesia, <br>Jangan ngaku Psg kalo belum jadi Member</p>
+                    <h2>Selamat Datang di Laman KTT G20 <br><b>Konferensi Tingkat Tinggi Group of Twenty</b></h2>
+                    <p class="text-secondary">Forum kerjasama multilateral <br>Yang akan di adakan di Bali Indonesia pada November 2022</p>
 
-                    <a href="{{ url("user/register") }}" class="btn btn-primary"><b>Daftar Sekarang!</b></a>
+                    <a href="{{ url("user/register") }}" class="btn btn-primary"><b>Sign Up Now!</b></a>
                 </div>
             </div>
             <div class="col-md-6">
